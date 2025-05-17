@@ -1,3 +1,5 @@
+//Reported issue https://github.com/expo/expo/issues/36943
+
 import { useVideoPlayer, VideoView } from 'expo-video';
 import { useEventListener } from 'expo';
 import { useEffect, useRef, useState } from 'react';
